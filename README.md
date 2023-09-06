@@ -95,7 +95,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" height="150" alt="stats graph"  /> <br>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr-Samy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amr-Samy&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -120,7 +120,6 @@
 </div>
 
 
-<!--<img src="https://raw.githubusercontent.com/Amr-Samy/Amr-Samy/output/snake.svg" alt="Snake animation" /> -->
 <div align="center">
   <a href="https://github.com/Amr-Samy">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -129,13 +128,7 @@
 
 ###
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/98ac7r82lp2f4u642ivlcig8k?si=9538008a3f614656">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
--->
+
 ###
 
 
