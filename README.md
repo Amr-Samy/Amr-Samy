@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">:lady_beetle: Creating bugs since 2017<br>📚 I'm currently learning Cross platform applications dev<br>🎲 Fun fact: I enjoy project management & planning as coding</p>
+<p align="left">:lady_beetle: Creating bugs since 2017<br>📚 I'm currently learning Cross platform applications dev<br>🎲 Fun fact: I enjoy project management & planning just as coding</p>
 
 ###
 
