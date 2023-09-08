@@ -122,7 +122,9 @@
   </a>
 </div>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41B883&center=true&width=435&lines=Typing+Speed+50+WPM" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/Amr-Samy">
