@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Tools I use</h2>
+<h2 align="left">:hammer_and_wrench: Tools I use</h2>
 
 ###
 
