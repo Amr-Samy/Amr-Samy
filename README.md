@@ -15,7 +15,7 @@
 <img align="right" height=150px src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left">:lady_beetle: Creating bugs since 2017<br>📚 I'm currently learning Cross platform applications dev<br>🎲 Fun fact: I enjoy project management & planning just as coding</p>
-
+<br><br>
 ###
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
