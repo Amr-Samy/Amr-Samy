@@ -98,12 +98,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" alt="stats graph"  /> -->
+<!--   <&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" alt="stats graph"  /> -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr-Samy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amr-Samy&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 </div>
 
 ###
