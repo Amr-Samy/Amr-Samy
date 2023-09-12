@@ -98,7 +98,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=My GitHub Stats" alt="stats graph"  />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=vue-dark&hide_border=true&show_icons=true&count_private=true "/> -->
   
