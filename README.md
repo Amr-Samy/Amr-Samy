@@ -106,6 +106,7 @@
 ###
 
 <div align="center">
+<h2 align="left">Profile Views</h2>
   <img src="https://profile-counter.glitch.me/Amr-Samy/count.svg?"  />
 </div>
 
