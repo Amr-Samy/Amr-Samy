@@ -19,7 +19,7 @@
 
 
  
-## <picture><img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="35"></picture> **Skills**
+## <picture><img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="25"></picture> **Skills**
 
 ###
 
@@ -109,16 +109,14 @@
 
 ###
 
-## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width = 35px></picture> **Profile Views**
+## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width = 25px></picture> **Profile Views**
 
-<!--<h2 align="left">Profile Views</h2>-->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Amr-Samy/count.svg?"  />
 </div>
 
 ###
-
-## <b> Let's Connect..!</b><img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/handshake.gif" width ="80">
+## **Let's Connect..!**<picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/handshake.gif" width = 80px></picture> 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amr-samy-a0325814b/" target="_blank">
