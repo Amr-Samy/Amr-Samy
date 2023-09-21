@@ -115,7 +115,7 @@
 
 ###
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/handshake.gif" width ="80">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amr-samy-a0325814b/" target="_blank">
