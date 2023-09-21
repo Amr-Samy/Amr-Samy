@@ -19,7 +19,7 @@
 
 
  
-## <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="35"><b> Skills</b>
+## <picture><img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="35"></picture> **Skills**
 
 ###
 
