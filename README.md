@@ -18,8 +18,8 @@
 <br>
 
 
-## 
-<img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="25"><b> Skills</b>
+ 
+## <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="25"><b> Skills</b>
 
 ###
 
