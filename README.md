@@ -96,7 +96,7 @@
 
 ###
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px></picture> **Github Stats**
 
 <div align="center">
 
