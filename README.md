@@ -109,7 +109,8 @@
 
 ###
 
-## <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width="35"><b> Profile Views </b>
+## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width = 35px></picture> **Profile Views**
+
 <!--<h2 align="left">Profile Views</h2>-->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Amr-Samy/count.svg?"  />
