@@ -1,5 +1,11 @@
 <br clear="both">
 
+<div align="center">
+  <a href="https://github.com/Amr-Samy">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
@@ -52,6 +58,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41B883&center=true&width=435&lines=Typing+Speed+50+WPM" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -134,15 +143,9 @@
   </a>
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41B883&center=true&width=435&lines=Typing+Speed+50+WPM" alt="Typing SVG" /></a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Amr-Samy">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
+
 
 ###
 
