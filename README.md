@@ -123,6 +123,12 @@
 
 </div>
 
+<div align=center>
+  <a href="" title="TROPHY">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Amr-Samy&theme=algolia&margin-h=15&margin-w=5&no-bg=true&no-frame=true&row=1" alt="TROPHY" />
+    </a>
+</div>
+
 ###
 
 ## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width = 30px></picture> **Profile Views**
@@ -146,8 +152,10 @@
 ###
 
 <!--
--->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amr-Samy&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+
 ###
 
 
