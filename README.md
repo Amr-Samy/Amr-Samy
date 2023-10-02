@@ -145,8 +145,7 @@
 
 ###
 
----
-
+[![trophy](https://github-profile-trophy.vercel.app/?Amr-Samy=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
 
