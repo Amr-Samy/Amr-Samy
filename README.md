@@ -129,6 +129,8 @@
     </a>
 </div>
 
+<img align="center" width=100% src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/barloading.gif" alt="divider" />
+
 ###
 
 ## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width = 30px></picture> **Profile Views**
