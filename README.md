@@ -15,7 +15,7 @@
 
 ###
 
-## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
 
 ###
 <img align="right" height=150px src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
@@ -25,7 +25,7 @@
 
 
  
-## <picture><img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/script.gif" width ="25"></picture> **Skills**
+## <picture><img src="assets/script.gif" width ="25"></picture> **Skills**
 
 ###
 
@@ -65,7 +65,8 @@
 
 ###
 
-<h2 align="left">:hammer_and_wrench: Tools I use</h2>
+## <picture><img src="assets/rocket.gif" width ="25"></picture> **Tools I use**
+
 
 ###
 
@@ -129,18 +130,18 @@
     </a>
 </div>
 
-<img align="center" width=100% src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/barloading.gif" alt="divider" />
+<img align="center" width=100% src="assets/barloading.gif" alt="divider" />
 
 ###
 
-## <picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/sharingan.gif" width = 30px></picture> **Profile Views**
+## <picture><img src = "assets/sharingan.gif" width = 30px></picture> **Profile Views**
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Amr-Samy/count.svg?"  />
 </div>
 
 ###
-## **Let's Connect..!**<picture><img src = "https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/handshake.gif" width = 80px></picture> 
+## <picture><img src = "assets/handshake.gif" width = 80px></picture>**Let's Connect..!**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amr-samy-a0325814b/" target="_blank">
