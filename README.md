@@ -144,11 +144,16 @@
 ## <picture><img src = "assets/handshake.gif" width = 80px></picture>**Let's Connect..!**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amr-samy-a0325814b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/amr-samy-a0325814b/ " target="_blank"  >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+
   <a href="https://stackoverflow.com/users/9990937/amr-samy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+<a href="https://dev.to/amrsamy" target="_blank" >
+    <img src="assets/icons/social/DevTo-Dark.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
