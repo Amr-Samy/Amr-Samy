@@ -1,10 +1,8 @@
-<br clear="both">
-
-<div align="center">
-  <a href="https://github.com/Amr-Samy">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<div align="right">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=192044&text=DEV&rotate=10&animation=fadeIn&fontColor=d6ace6&fontAlign=90&fontAlignY=0" />
 </div>
+
+<!--<br clear="both">-->
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
@@ -162,6 +160,11 @@
 
 ###
 
+<div align="center">
+  <a href="https://github.com/Amr-Samy">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ###
 
