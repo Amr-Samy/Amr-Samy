@@ -10,9 +10,6 @@
 
 <p align="left">My name is Amr Samy and I'm a from Egypt</p>
 
-
-###
-
 ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
 
 ###
@@ -21,11 +18,7 @@
 <p align="left">:lady_beetle: Creating bugs since 2017<br>📚 I'm currently learning Cross platform applications dev<br>🎲 Fun fact: I enjoy project management & planning just as coding</p>
 <br>
 
-
- 
 ## <picture><img src="assets/script.gif" width ="25"></picture> **Skills**
-
-###
 
 <br clear="both">
 
@@ -36,7 +29,6 @@
   <img width="12" />
    <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/firebase.svg" height="40" alt="dart logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -61,13 +53,7 @@
 <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41B883&center=true&width=435&lines=Typing+Speed+50+WPM" alt="Typing SVG" /></a>
 </div>
 
-###
-
 ## <picture><img src="assets/rocket.gif" width ="25"></picture> **Tools I use**
-
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -83,7 +69,6 @@
   <img width="12" />
   <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/github.svg" height="40" alt="github logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> -->
   <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/postman.svg" height="40" alt="postman"  />
 </div>
 
@@ -158,9 +143,6 @@
   </a>
 </div>
 
-###
-
-###
 
 ## :memo: **Articles**
 
@@ -174,9 +156,6 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ac7r82lp2f4u642ivlcig8k&count=3" alt="Spotify recently played" />
 </div>
 
-###
-
-###
 
 <div align="center">
   <a href="https://github.com/Amr-Samy">
@@ -184,6 +163,3 @@
        alt="snake" /></a>
 </div>
 
-###
-
-###
