@@ -143,7 +143,6 @@
   </a>
 </div>
 
-
 ## :memo: **Articles**
 
 <div align="left">
@@ -155,7 +154,6 @@
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ac7r82lp2f4u642ivlcig8k&count=3" alt="Spotify recently played" />
 </div>
-
 
 <div align="center">
   <a href="https://github.com/Amr-Samy">
