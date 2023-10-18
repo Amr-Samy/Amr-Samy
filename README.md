@@ -146,7 +146,7 @@
 ## :memo: **Articles**
 
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=amrsamy25211&theme=vue-dark" alt="Layout with last medium posts" />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=amrsamy25211&theme=vue-dark" alt="last medium posts" />
 </div>
 
 ## :notes: Music
