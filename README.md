@@ -8,7 +8,9 @@
 
 ###
 
+<!--
 <p align="left">My name is Amr Samy and I'm a from Egypt</p>
+-->
 
 ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
 
@@ -142,13 +144,12 @@
     <img src="assets/icons/social/medium.png" width="40" height="40" alt="stackoverflow logo"/>
   </a>
 </div>
-
+<!--
 ## :memo: **Articles**
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=amrsamy25211&theme=vue-dark" alt="last medium posts" />
-</div>
-
+  <div align="left">
+    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=amrsamy25211&theme=vue-dark" alt="last medium posts" />
+  </div>
+-->
 
 ## :notes: Music
 
