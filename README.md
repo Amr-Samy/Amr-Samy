@@ -161,7 +161,7 @@
 
 <div align="center">
   <a href="https://github.com/Amr-Samy">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="assets/snake.svg" alt="snake"/>
+  </a>
 </div>
 
