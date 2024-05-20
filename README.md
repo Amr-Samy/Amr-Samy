@@ -104,9 +104,11 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr-Samy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Amr-Samy&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-
+  -->
+  <img src="https://github-readme-stats-omega-sand-46.vercel.app/api?username=Amr-Samy&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true&theme=vue-dark&hide_border=true" />
+</p>
 </div>
 
 <div align=center>
