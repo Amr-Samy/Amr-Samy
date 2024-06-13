@@ -152,13 +152,13 @@
     <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=amrsamy25211&theme=vue-dark" alt="last medium posts" />
   </div>
 -->
-
+<!--
 ## :notes: Music
 
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ac7r82lp2f4u642ivlcig8k&count=3" alt="Spotify recently played" />
 </div>
-
+-->
 [![An image of @amrsamy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrsamy)](https://holopin.io/@amrsamy)
 
 <div align="center">
