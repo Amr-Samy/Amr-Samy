@@ -16,10 +16,14 @@
 
 ###
 <img align="right" height=150px src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+🐞 Creating bugs since 2017<br>
+💻 Software engineer focused on building meaningful, user-friendly mobile experiences.<br>
+🚀 Passionate about crafting apps that solve real-world problems.<br>
+📚 Currently mastering cross-platform development with Flutter, focusing on performance and clean UI.<br>
+🔍 A research-driven developer — I believe every bug has a solution if you’re curious enough to find it.<br>
+🎯 I love project planning as much as coding — clear timelines are my happy place.<br>
+🤓 I probably have more open tabs than I should.<br>
 
-<p align="left">:lady_beetle: Creating bugs since 2017<br>📚 Currently mastering cross-platform development with Flutter, focusing on performance and clean UI.
-<br>🎯 Fun fact: I love project planning as much as coding — clear timelines are my happy place.</p>
-<br>
 
 ## <picture><img src="assets/script.gif" width ="25"></picture> **Skills**
 
