@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=192044&text=DEV&rotate=10&animation=fadeIn&fontColor=d6ace6&fontAlign=90&fontAlignY=0" />
-</div>
+</div> -->
 
 <!--<br clear="both">-->
 
@@ -64,6 +64,7 @@
 <br clear="both">
 
 <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-plain.svg" height="40" alt="androidstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -111,8 +112,10 @@
   <img src="https://streak-stats.demolab.com?user=Amr-Samy&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  -->
+  
   <img src="https://github-readme-stats-omega-sand-46.vercel.app/api?username=Amr-Samy&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true&theme=vue-dark&hide_border=true" />
+  ![](https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    -->
 </p>
 </div>
 
@@ -125,12 +128,13 @@
 <img align="center" width=100% src="assets/barloading.gif" alt="divider" />
 
 ###
-
+  <!--
 ## <picture><img src = "assets/sharingan.gif" width = 30px></picture> **Profile Views**
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Amr-Samy/count.svg?"  />
 </div>
+  -->
 
 ###
 ## <picture><img src = "assets/handshake.gif" width = 80px></picture>**Let's Connect..!**
