@@ -80,7 +80,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr-Samy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=Amr-Samy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Amr-Samy&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Amr-Samy&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
@@ -132,15 +132,6 @@
   <div align="left">
     <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=amrsamy25211&theme=vue-dark" alt="last medium posts" />
   </div>
--->
-<!--
-## :notes: Music
-
-<div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=98ac7r82lp2f4u642ivlcig8k&count=3" alt="Spotify recently played" />
-</div>
-
-[![An image of @amrsamy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrsamy)](https://holopin.io/@amrsamy)
 -->
 <div align="center">
   <a href="https://github.com/Amr-Samy">
