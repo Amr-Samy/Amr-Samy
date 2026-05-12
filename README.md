@@ -34,21 +34,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
-   <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/firebase.svg" height="40" alt="dart logo"  />
+  <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/firebase.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="40" />
-  <img width="12" />
-   <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/redux.png" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-    <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/html.svg" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/html.svg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -80,27 +72,7 @@
   <img src="https://github.com/Amr-Samy/Amr-Samy/blob/main/assets/postman.svg" height="40" alt="postman"  />
 </div>
 
-###
 
-<h2 align="left">:test_tube: Looking forward to try</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" /> -->
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" height="40" alt="krakenjs logo"  />
-</div>
 
 ###
 
